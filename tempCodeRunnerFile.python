@@ -1,0 +1,41 @@
+# %% [markdown]
+# # Dataset
+# 
+#  https://archive.ics.uci.edu/ml/datasets/Auto+MPG
+# 
+
+# %% [markdown]
+# # 1. Loading Libraries
+# 
+
+# %%
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+%matplotlib inline
+
+# %% [markdown]
+# # 2. Importing data
+# 
+
+# %%
+names = ['spg', 'cylinders', 'displacement', 'horsepower', 'weight', 'acceleration', 'modelyear',
+'origin', 'carname']
+
+df = pd.read_csv("auto-mpg.data", sep = '\s+', header = None, names = names)
+
+df.head()
+
+# %%
+df.to_csv("auto_mpg.csv", index = False)
+
+# %%
+df.info()
+
+df.isnull().sum()
+
+# %%
+
+
+
