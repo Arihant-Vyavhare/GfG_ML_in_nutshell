@@ -2,9 +2,18 @@
 ==============================
 
  ## first end to end ml project
+![git_workflow](https://user-images.githubusercontent.com/52229052/232444154-549f8eda-5d02-4145-a761-aa5ea38f36c3.PNG)
+
+
 ![git_commands](https://user-images.githubusercontent.com/52229052/232343608-fc5bfd1d-eea6-4092-bc31-f7c31d5f48f1.png)
+
+
 ![basic-git-commands](https://user-images.githubusercontent.com/52229052/232343609-c2b4c39c-f1c3-478d-becc-398aa8720967.png)
+
+
 ![git_branches](https://user-images.githubusercontent.com/52229052/232343612-3dd53b01-3728-4a2b-934c-6d17c564985a.jpg)
+
+
 Project Organization
 ------------
 
