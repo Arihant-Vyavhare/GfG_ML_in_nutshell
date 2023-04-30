@@ -81,6 +81,8 @@ target/
 .data
 .names
 .data-original
+*.pkl
+.pkl
 
 # Mac OS-specific storage files
 .DS_Store
@@ -91,3 +93,4 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
